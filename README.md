@@ -1,2 +1,2 @@
 # troybin-inibin-cfgbin-
-troybin-inibin-cfgbin编辑器
+一个简单的troybin-inibin-cfgbin编辑器
