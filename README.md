@@ -1,4 +1,4 @@
 一个简单的troybin-inibin-cfgbin编辑器
-![Uploading Snipaste_2026-03-25_21-15-02.png…]()
+<img width="1048" height="731" alt="Snipaste_2026-03-25_21-15-02" src="https://github.com/user-attachments/assets/cb1d7f7e-70e4-4eaa-90c8-7888ab805926" />
 
 https://share.feijipan.com/s/4x2bjEfs
